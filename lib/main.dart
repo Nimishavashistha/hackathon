@@ -19,6 +19,6 @@ class MyApp extends StatelessWidget {
               textTheme: ButtonTextTheme.primary,
             )),
         getPages: AppPages.pages,
-        initialRoute: AppRoutes.dashboard);
+        initialRoute: AppRoutes.invoice);
   }
 }
